@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shailesh Pal
-- 👀 I’m interested in Backend Development with AI
-- 🌱 I’m currently learning Responsible AI
+👋 Hi, I’m Shailesh Pal
+ 👀 I’m interested in Backend Development with AI
+ 🌱 I’m currently learning Responsible AI
 
 
 <!---
