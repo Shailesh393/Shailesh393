@@ -30,8 +30,8 @@ I work at the intersection of **AI + Backend + Scalable Systems**, building inte
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/shailesh-mca/))  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:shaileshpal179@gmail.com)  
 
 ---
 
